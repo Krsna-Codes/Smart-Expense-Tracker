@@ -12,26 +12,6 @@ Users can securely log in, add expenses, view detailed notes, edit entries, and 
 ✔️ Built with reusable, modern React components
 ✔️ Secure backend with Mongoose models & validation
 
-🗂️ Project Structure
-
-Smart-Expense-Tracker/
-│
-├── backend/                # Node.js + Express + MongoDB API
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   ├── server.js
-│   ├── .env                # ignored
-│   └── package.json
-│
-└── frontend/               # React client (Vite)
-    ├── src/
-    │   ├── components/
-    │   ├── pages/
-    │   └── api.js
-    ├── .env                # ignored
-    └── package.json
-
 
 ⚙️ Tech Stack
 
