@@ -16,20 +16,22 @@ Users can securely log in, add expenses, view detailed notes, edit entries, and 
 
 Smart-Expense-Tracker/
 │
-├── backend/              # Node.js + Express + MongoDB API
+├── backend/                # Node.js + Express + MongoDB API
 │   ├── models/
 │   ├── routes/
 │   ├── middleware/
 │   ├── server.js
-│   ├── .env (ignored)
+│   ├── .env                # ignored
 │   └── package.json
 │
-└── frontend/             # React client (Vite)
-    ├── src/components/
-    ├── src/pages/
-    ├── src/api.js
-    ├── .env (ignored)
+└── frontend/               # React client (Vite)
+    ├── src/
+    │   ├── components/
+    │   ├── pages/
+    │   └── api.js
+    ├── .env                # ignored
     └── package.json
+
 
 ⚙️ Tech Stack
 
