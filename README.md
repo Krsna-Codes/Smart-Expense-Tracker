@@ -12,6 +12,10 @@ Users can securely log in, add expenses, view detailed notes, edit entries, and 
 ✔️ Built with reusable, modern React components
 ✔️ Secure backend with Mongoose models & validation
 
+📂 Project Structure
+
+<img width="1536" height="1024" alt="project-structure" src="https://github.com/user-attachments/assets/4b86a607-fb2c-42c4-afd1-b5dfc23ddabc" />
+
 
 ⚙️ Tech Stack
 
